@@ -31,9 +31,7 @@
 #### **AI & Machine Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-blue?style=flat-square&logo=scikitlearn&logoColor=ffffff&color=blue)
-
-
+![scikit-learn](https://img.shields.io/badge/scikit--learn-3699CD?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
