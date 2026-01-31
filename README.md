@@ -6,8 +6,6 @@
 - **B.S. in Information Management & Finance - National Yang Ming Chiao Tung University** ***NYCU*** 🎓
   - *Advisor: Prof. Szu-Hao Huang*
   - *Graduated in Jun. 2024*
-- **National Hsinchu Girls' Senior High School** ***HGSH*** 🎓
-  - *Graduated in Jun. 2020*
 
 ### 📊 GitHub Stats
 <div align="center">
